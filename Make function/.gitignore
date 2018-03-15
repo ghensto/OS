@@ -1,0 +1,17 @@
+.DS_Store
+
+# Object files
+*.o
+
+# Libraries
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+make4061
+make4061_test
